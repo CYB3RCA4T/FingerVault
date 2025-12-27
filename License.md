@@ -1,4 +1,4 @@
-Copyright (c) 2025 [Your Name or Alias]
+Copyright (c) 2025 CYB3RCA4T
 
 All Rights Reserved.
 
